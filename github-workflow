@@ -24,5 +24,5 @@ Process to update code base:
         - test the code in the browser/console (e.g. nodemon index.js)
 7) git push origin branchName
     - push your code to your branch
-8) on github in your forked repo, make pull request
+8) on github in your forked repo, make pull request from your branch
 9) notify scrum master to review and accept pull request
